@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Leng (or maybe not Leng 👀).  
-I'm currently a junior majoring in Software Development at AUPP.
+I'm currently a senior year majoring in Software Development at AUPP.
 
 I enjoy building full-stack applications, experimenting with AI, and creating unique product ideas (especially POS systems 🚀).
 
@@ -64,9 +64,9 @@ I enjoy building full-stack applications, experimenting with AI, and creating un
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thisisnotleng&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thisisnotleng&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=thisisnotleng&theme=dark&hide_border=false)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisnotleng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisnotleng&theme=dark&hide_border=false&layout=compact)
 
 ---
 
